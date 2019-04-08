@@ -5,3 +5,6 @@ const unique = (str) => {
   }
   return set.length === str.length
 }
+
+
+//test case
